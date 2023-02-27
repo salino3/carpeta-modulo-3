@@ -1,0 +1,6 @@
+./my-parcel-app/node_modules
+./../dist
+./../.parcel-cache
+
+./webpack-lemoncode2/node_modules
+./webpack-lemoncode2/dist

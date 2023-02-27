@@ -1,0 +1,11 @@
+$textColor: darkred;
+
+.myH2{
+    color:darkorange;
+}
+
+body{
+    padding: 2em;
+    color: $textColor;
+    background-color: rgba(128, 48, 161, 0.674);
+}

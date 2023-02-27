@@ -1,0 +1,15 @@
+$myColor: darkblue;
+
+body{
+    background-color: darkorange;
+}
+
+.myh1{
+    background: $myColor;
+    padding: 0.5em;
+    color:  white;
+}
+
+.h1service{
+    color: rgb(4, 211, 142);
+}
