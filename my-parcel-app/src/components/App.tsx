@@ -8,6 +8,6 @@ export const App: React.FC = () => {
     <>
       <h1>Hola Mundo!</h1>
       <img className='rounded' src={photoContent} alt="map" />
-    </>
+    </>   
   );
 }
